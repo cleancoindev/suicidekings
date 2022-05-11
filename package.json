@@ -22,7 +22,7 @@
   "homepage": "https://github.com/alexfisher/suicidekings#suicide-kings",
   "dependencies": {
     "@openzeppelin/contracts": "^2.5.1",
-    "@truffle/hdwallet-provider": "^1.0.35",
+    "@truffle/hdwallet-provider": "^1.7.0",
     "multi-token-standard": "^0.8.13"
   }
 }
